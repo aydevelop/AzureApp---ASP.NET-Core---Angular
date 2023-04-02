@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentTriggerFunction", "DocumentTriggerFunction\DocumentTriggerFunction.csproj", "{3DFB1C38-427A-4666-B451-2463BEA68B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFB1C38-427A-4666-B451-2463BEA68B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFB1C38-427A-4666-B451-2463BEA68B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFB1C38-427A-4666-B451-2463BEA68B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFB1C38-427A-4666-B451-2463BEA68B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF5A104B-42CF-4A08-A805-98C26A67996E}
+	EndGlobalSection
+EndGlobal
